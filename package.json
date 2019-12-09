@@ -23,7 +23,8 @@
   },
   "dependencies": {
     "json-server": "^0.15.0",
+    "mem": ">=4.0.0",
     "save": "^2.4.0",
-    "mem": ">=4.0.0"
+    "serialize-javascript": "^2.1.1"
   }
 }
